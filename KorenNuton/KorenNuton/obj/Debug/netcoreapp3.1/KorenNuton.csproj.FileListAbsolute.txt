@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Epam\KorenNuton\KorenNuton\bin\Debug\netcoreapp3.1\KorenNuton.exe
+C:\Users\user\Desktop\Epam\KorenNuton\KorenNuton\bin\Debug\netcoreapp3.1\KorenNuton.deps.json
+C:\Users\user\Desktop\Epam\KorenNuton\KorenNuton\bin\Debug\netcoreapp3.1\KorenNuton.runtimeconfig.json
+C:\Users\user\Desktop\Epam\KorenNuton\KorenNuton\bin\Debug\netcoreapp3.1\KorenNuton.runtimeconfig.dev.json
+C:\Users\user\Desktop\Epam\KorenNuton\KorenNuton\bin\Debug\netcoreapp3.1\KorenNuton.dll
+C:\Users\user\Desktop\Epam\KorenNuton\KorenNuton\bin\Debug\netcoreapp3.1\KorenNuton.pdb
+C:\Users\user\Desktop\Epam\KorenNuton\KorenNuton\obj\Debug\netcoreapp3.1\KorenNuton.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Epam\KorenNuton\KorenNuton\obj\Debug\netcoreapp3.1\KorenNuton.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Epam\KorenNuton\KorenNuton\obj\Debug\netcoreapp3.1\KorenNuton.AssemblyInfo.cs
+C:\Users\user\Desktop\Epam\KorenNuton\KorenNuton\obj\Debug\netcoreapp3.1\KorenNuton.dll
+C:\Users\user\Desktop\Epam\KorenNuton\KorenNuton\obj\Debug\netcoreapp3.1\KorenNuton.pdb
